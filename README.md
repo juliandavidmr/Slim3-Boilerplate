@@ -48,3 +48,15 @@ Run
 ```bash
 php -S localhost:8080 -t public
 ```
+
+## Do you have npm installed?
+
+```bash
+# Run server
+npm start
+
+# Test unit
+npm run test
+```
+
+License MIT
