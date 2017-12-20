@@ -6,6 +6,11 @@ Use this skeleton application to quickly setup and start working on a new Slim F
 
 This skeleton application was built for Composer. This makes setting up a new Slim Framework application quick and easy.
 
+## Include
+
+- [x] Browser detection
+- [x] JWT: JSON Web Token implementation
+
 ## Install
 
 Clone
